@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Text(
-                FormatCurrency.convertToIdr(item.hargaProduk, 2),
+                FormatCurrency.convertToIdr(10000, 2),
                 maxLines: 1,
                 textAlign: TextAlign.left,
                 style: TextStyle(
