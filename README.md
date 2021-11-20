@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 11,
                   color: Colors.orange,
+            ),
           ),
         ),
       ),
