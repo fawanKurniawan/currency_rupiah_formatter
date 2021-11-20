@@ -26,7 +26,8 @@ class MyApp extends StatelessWidget {
                 textAlign: TextAlign.left,
                 style: TextStyle(
                   fontSize: 11,
-                  color: Colors.orange,)
+                  color: Colors.orange,
+            ),
           ),
         ),
       ),
